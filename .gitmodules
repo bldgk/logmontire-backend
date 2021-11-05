@@ -1,0 +1,30 @@
+[submodule "src/github.com/kirillbeldyaga/fasthttprouter"]
+	path = src/github.com/kirillbeldyaga/fasthttprouter
+	url = https://github.com/kirillbeldyaga/fasthttprouter
+[submodule "src/github.com/fatih/color"]
+	path = src/github.com/fatih/color
+	url = https://github.com/fatih/color
+[submodule "src/github.com/tkanos/gonfig"]
+	path = src/github.com/tkanos/gonfig
+	url = https://github.com/tkanos/gonfig
+[submodule "src/gopkg.in/mgo.v2"]
+	path = src/gopkg.in/mgo.v2
+	url = https://gopkg.in/mgo.v2
+[submodule "src/github.com/kirillbeldyaga/fasthttp"]
+	path = src/github.com/kirillbeldyaga/fasthttp
+	url = https://github.com/kirillbeldyaga/fasthttp
+[submodule "src/github.com/klauspost/cpuid"]
+	path = src/github.com/klauspost/cpuid
+	url = https://github.com/klauspost/cpuid
+[submodule "src/github.com/valyala/bytebufferpool"]
+	path = src/github.com/valyala/bytebufferpool
+	url = https://github.com/valyala/bytebufferpool
+[submodule "src/github.com/klauspost/compress"]
+	path = src/github.com/klauspost/compress
+	url = https://github.com/klauspost/compress
+[submodule "src/github.com/streadway/amqp"]
+	path = src/github.com/streadway/amqp
+	url = https://github.com/streadway/amqp
+[submodule "src/github.com/valyala/fastjson"]
+	path = src/github.com/valyala/fastjson
+	url = https://github.com/valyala/fastjson.git

@@ -1,0 +1,34 @@
+{
+  "http_server": {
+    "host": "localhost",
+    "port": 9999
+  },
+  "rabbitmq": {
+    "connection_string": "amqp://bchat:bchat@95.216.169.56:5672"
+  },
+  "db": {
+    "local": {
+      "config": {
+        "username": "bchat_user",
+        "password": "54321qaz",
+        "database": "bchat"
+      },
+      "hosts": [
+        "127.0.0.1:27017"
+      ],
+      "enabled": true
+    },
+    "atlas": {
+      "config": {
+        "username": "Kirill",
+        "password": "2PF8qDc84ciLaeg4",
+        "database": "test"
+      },
+      "hosts": [
+        "cluster0-qglca.mongodb.net:27017"
+      ],
+      "connection_string": "Kirill:2PF8qDc84ciLaeg4@cluster0-qglca.mongodb.net/test",
+      "enabled": false
+    }
+  }
+}
